@@ -16,7 +16,7 @@ dishesMenu.classList.add('dishes-view');
 dishesMenu.innerHTML = 
         `
             <div class="dishes" id="1">
-                <p>Delicious mix of veggies with shrip on top lorem:of veggies with shrip on top lorem:of veggies with shrip on top lorem:of veggies with shrip on top lorem:of veggies with shrip on top lorem:of veggies with shrip on top lorem:of veggies with shrip on top lorem:of veggies with shrip on top lorem:of veggies with shrip on top lorem:of veggies with shrip on top lorem:of veggies with shrip on top lorem:of veggies with shrip on top lorem:of veggies with shrip on top lorem:of veggies with shrip on top lorem:of veggies with shrip on top lorem:of veggies with shrip on top lorem:of veggies with shrip on top lorem:of veggies with shrip on top lorem:of veggies with shrip on top lorem:of veggies with shrip on top lorem:20</p>
+                <p>Delicious mix of veggies with shrip on top </p>
                 <img src="${dishOne}">                
             </div>
 

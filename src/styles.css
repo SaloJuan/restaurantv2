@@ -3,7 +3,8 @@ body{
 
 }
 
-.content{
+.content,
+.dishes-view{
 
     display:grid;
     justify-items: center;
@@ -11,11 +12,11 @@ body{
 }
 
 
+
+
 p{
     color:red;
-    justify-self: center;
-    align-self:center;
     margin:0;
     width:auto;
-    max-width: 50%;
 }
+
