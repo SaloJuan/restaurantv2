@@ -1,0 +1,21 @@
+body{
+    border: red 1px solid;
+
+}
+
+.content{
+
+    display:grid;
+    justify-items: center;
+    align-items: center;
+}
+
+
+p{
+    color:red;
+    justify-self: center;
+    align-self:center;
+    margin:0;
+    width:auto;
+    max-width: 50%;
+}
